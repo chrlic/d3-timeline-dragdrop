@@ -1,14 +1,8 @@
 # D3 TimelineChart
 
-[![Build Status](https://travis-ci.org/commodityvectors/d3-timeline.svg?branch=master)](https://travis-ci.org/commodityvectors/d3-timeline)
-
-[![NPM](https://nodei.co/npm/d3-timeline-chart.png)](https://nodei.co/npm/d3-timeline-chart/)
-
-![Chart example](https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif)
-
 ## Installing
 
-`npm install d3-timeline-chart --save`
+ToDo
 
 ## Example
 
@@ -58,11 +52,14 @@ This allows you to define a minimum width for an interval element. Sometimes, wh
 ### tip (undefined)
 A function that receives as parameter a data point and returns an HTML text to be displayed as a tooltip
 
+## Based On
+https://github.com/commodityvectors/d3-timeline
+
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) [2016] [Commodity Vectors]
+Copyright (c) [2018] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
